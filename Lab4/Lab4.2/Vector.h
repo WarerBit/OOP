@@ -14,7 +14,7 @@ public:
 	
 	Vector();
 	Vector(const Vector& vec_obj);
-	Vector(int x,int y,int z);
+	Vector(int,int,int);
 	~Vector();
 	void getModule();
 	void getVec();
