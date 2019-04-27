@@ -32,13 +32,14 @@ public:
 };
 
 class Starosta : public Student {
+private:
+	string group;
+	int missed;
 public:
 	Starosta(int age, int number, string name, string group, int missed) : Student(age, number, name) {
 		this->group = group;
 		this->missed = missed;
 	}
-	string group;
-	int missed;
 	string getGroup() {
 		return group;
 	}
