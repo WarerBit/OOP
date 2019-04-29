@@ -1,21 +1,18 @@
-#include "Car.h"
+#include "StudentGroup.h"
 #include <iostream>
 
 int main()
 {
-	Car mashina; 
-	string vvod; 
-	int vod;
-	cout << "Vvedite model:";
+	StudentGroup group;
+	string vvod; int vod;
+	cout << "Vvedite cod gruppi:";
 	cin >> vvod;
-	mashina.setCarValue(C_MODEL, vvod);
-	cout << "Vvedite kol-vo mest:";
+	group.setSGValue(vvod);
+	cout << "Vvedite curs gruppi:";
 	cin >> vod;
-	mashina.setCarValue(C_SEAT, vod);
-	cout << "Vvedite cvet:";
-	cin >> vvod;
-	mashina.setCarValue(C_COLOR, vvod);
-	cout << "Model:" << mashina.getCarValue(C_MODEL) << "\nKol-vo mest:" << mashina.getCarSeat() << "\nCvet:" << mashina.getCarValue(C_COLOR);
+	group.setSGValue(vod);
+	cout << "Code:" << group.getSGCode() << endl << "Course:" << group.getSGCourse() << endl;
 
 	system("pause");
+
 }
