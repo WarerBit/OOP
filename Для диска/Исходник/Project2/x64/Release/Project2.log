@@ -1,0 +1,135 @@
+﻿  TheGame.cpp
+c:\users\алексей\source\repos\project2\project2\thegame.cpp(45): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\алексей\source\repos\project2\project2\thegame.cpp(51): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\алексей\source\repos\project2\project2\thegame.cpp(63): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\алексей\source\repos\project2\project2\thegame.cpp(67): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\алексей\source\repos\project2\project2\thegame.cpp(72): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\алексей\source\repos\project2\project2\thegame.cpp(77): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\алексей\source\repos\project2\project2\thegame.cpp(93): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\алексей\source\repos\project2\project2\thegame.cpp(99): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\алексей\source\repos\project2\project2\thegame.cpp(114): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\алексей\source\repos\project2\project2\thegame.cpp(120): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\алексей\source\repos\project2\project2\thegame.cpp(134): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\алексей\source\repos\project2\project2\thegame.cpp(137): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\алексей\source\repos\project2\project2\thegame.cpp(140): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\алексей\source\repos\project2\project2\thegame.cpp(159): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\алексей\source\repos\project2\project2\thegame.cpp(162): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\алексей\source\repos\project2\project2\thegame.cpp(165): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\алексей\source\repos\project2\project2\thegame.cpp(189): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\алексей\source\repos\project2\project2\thegame.cpp(219): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\алексей\source\repos\project2\project2\thegame.cpp(222): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\алексей\source\repos\project2\project2\thegame.cpp(225): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\алексей\source\repos\project2\project2\thegame.cpp(273): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\алексей\source\repos\project2\project2\thegame.cpp(311): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\алексей\source\repos\project2\project2\thegame.cpp(317): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\алексей\source\repos\project2\project2\thegame.cpp(321): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\алексей\source\repos\project2\project2\thegame.cpp(327): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\алексей\source\repos\project2\project2\thegame.cpp(331): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\алексей\source\repos\project2\project2\thegame.cpp(336): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\алексей\source\repos\project2\project2\thegame.cpp(340): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\алексей\source\repos\project2\project2\thegame.cpp(376): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\алексей\source\repos\project2\project2\thegame.cpp(464): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\алексей\source\repos\project2\project2\thegame.cpp(471): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\алексей\source\repos\project2\project2\thegame.cpp(502): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\алексей\source\repos\project2\project2\thegame.cpp(542): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\алексей\source\repos\project2\project2\thegame.cpp(581): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\алексей\source\repos\project2\project2\thegame.cpp(637): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\алексей\source\repos\project2\project2\thegame.cpp(640): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\алексей\source\repos\project2\project2\thegame.cpp(701): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\алексей\source\repos\project2\project2\thegame.cpp(910): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\алексей\source\repos\project2\project2\thegame.cpp(916): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\алексей\source\repos\project2\project2\thegame.cpp(927): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Создание кода
+  2 of 533 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Project2.vcxproj -> C:\Users\Алексей\source\repos\Project2\x64\Release\ProjectCURSE ACHE.exe
