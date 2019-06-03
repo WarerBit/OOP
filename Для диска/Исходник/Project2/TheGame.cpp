@@ -172,7 +172,6 @@ void TheGame::StageOne(){///////////////////////////////////////////////////////
 									if (lastbox.intersects(box)) {
 										if (lastShip < 4) {
 											ships[lastShip].setPosition(600 + lastShip * 40, 200);
-											canRotate[lastShip - 3] = true;
 										}
 										else
 											if (lastShip < 7) {
@@ -244,7 +243,6 @@ void TheGame::StageOne(){///////////////////////////////////////////////////////
 										if (lastbox.intersects(box)) {
 											if (lastShip < 4) {
 												ships[lastShip].setPosition(600 + lastShip * 40, 200);
-												canRotate[lastShip - 3] = true;
 											}
 											else
 												if (lastShip < 7) {
